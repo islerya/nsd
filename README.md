@@ -2,10 +2,12 @@
 Efficiency Evaluation of Rapid Maxillary Expansion Treatment on Nasal Septal Deviation from Cone-Beam Computer Tomography Images using Tortuosity Ratio Program Developed in Matlab. This is the code part of a published paper in the Computer Methods and Programs in Biomedicine journal. If you use (or inspire from) this code, please cite the paper (https://doi.org/10.1016/j.cmpb.2019.105260).
 
 # Authors (& developers)
-G. Gokce, I. Veli, Y.K. Yuce, and Y. Isler
 Gokcenur Gokce (Assistant Professor, Faculty of Dentistry, Izmir Katip Celebi University, Izmir, Turkey)
+
 Ilknur Veli (Full Professor, Faculty of Dentistry, Izmir Katip Celebi University, Izmir, Turkey)
+
 Yalcin Isler (Associate Professor, Department of Biomedical Engineering, Izmir Katip Celebi University, Izmir, Turkey)
+
 Gokcenur Gokce (Assistant Professor, Department of Computer Engineering, Alanya Alaaddin Keykubat University, Antalya, Turkey)
 
 # Abstract of the paper
